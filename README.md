@@ -1,1 +1,2 @@
-# paperJump
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
